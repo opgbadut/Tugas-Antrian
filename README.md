@@ -1,13 +1,12 @@
-# 🛒 Simulasi Antrian FCFS — Kasir Supermarket
-
-Tugas Praktikum Simulasi Sistem — Semester 6  
-Simulasi antrian kasir supermarket menggunakan metode **First Come First Serve (FCFS)** berbasis Java Desktop GUI (Swing).
+# 🛒 Simulasi Antrian — Kasir
+ 
+Simulasi antrian kasir menggunakan metode **First Come First Serve (FCFS)** berbasis Java Desktop GUI (Swing).
 
 ---
 
 ## 📋 Deskripsi
 
-Program ini mensimulasikan proses antrian pelanggan di kasir supermarket dengan satu server (kasir). Data kedatangan dan pelayanan di-generate secara acak menggunakan **distribusi eksponensial**. Program menampilkan tiga tabel hasil simulasi secara langsung setelah tombol Generate ditekan.
+Program ini mensimulasikan proses antrian pelanggan di kasir dengan satu server (kasir). Data kedatangan dan pelayanan di-generate secara acak menggunakan **distribusi eksponensial**. Program menampilkan tiga tabel hasil simulasi secara langsung setelah tombol Generate ditekan.
 
 ---
 
@@ -40,7 +39,7 @@ Program ini mensimulasikan proses antrian pelanggan di kasir supermarket dengan 
 
 - Java SE (JDK 8+)
 - Java Swing
-- Tidak memerlukan library eksternal, Maven, atau Gradle
+- Tanpa library eksternal, Maven, atau Gradle
 
 ---
 
