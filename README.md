@@ -99,4 +99,3 @@ waktuDiToko = waktuKeluar - waktuDatang
 ## 📌 Catatan
 
 - Jika ada event **Datang** dan **Keluar** di waktu yang sama, event **Keluar diproses lebih dulu** agar kasir sempat dibebaskan sebelum menerima pelanggan berikutnya.
-- File `.class` yang muncul banyak (misal `Tugas5_Antrian$1.class`) adalah hasil compile anonymous class — **normal**, tidak perlu diubah.
