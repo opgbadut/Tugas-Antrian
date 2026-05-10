@@ -97,12 +97,6 @@ waktuDiToko = waktuKeluar - waktuDatang
 
 ---
 
-## 📸 Tampilan Program
-
-![Tampilan GUI](Screenshot (25).png)
-
----
-
 ## 📌 Catatan
 
 - Jika ada event **Datang** dan **Keluar** di waktu yang sama, event **Keluar diproses lebih dulu** agar kasir sempat dibebaskan sebelum menerima pelanggan berikutnya.
